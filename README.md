@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sivaprakash
-- 👀 I’m interested in Frontend developer
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Bootstrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me reignsprakash6336@gmail.com
